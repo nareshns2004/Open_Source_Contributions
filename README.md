@@ -61,4 +61,4 @@ Problem Solving (Real Life Examples) - Arrays, Linked Lists, Stacks, Binary Tree
 	• Top-down Memorization
 	• Bottom-up Tabulation
 	• Optimizing Bottom-up Tabulation
-  • Common DP-related coding problems
+  	• Common DP-related coding problems
