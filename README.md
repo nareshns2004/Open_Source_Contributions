@@ -3,16 +3,6 @@
 Problem Solving (Real Life Examples) - Arrays, Linked Lists, Stacks, Binary Trees, Tries, Heaps, Searching, Sorting, Recursion, Hashing, Standard Algorithms, Dynamic Programming etc
 
 
-# Programming for Embedded Devices
-
-	• Deep dive into concepts of Embedded C, including optimized coding
-	• Embedded specific use cases of Bit Manipulation
-	• Pointers, number representation and data types, and advanced use of volatile and const qualifiers in Embedded C 
-	• Comprehensive coverage of efficient coding techniques
-	• Deep understanding of various compiler optimizations using generated assembly code
-	• Byte Ordering, Pointers, Number Representation, and Data Alignment and Packing in Aggregate Data Types
-	• Bit manipulation problems with pros and cons
-
 # Sorting
 
 	• Introduction to Sorting
